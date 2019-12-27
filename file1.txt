@@ -1,0 +1,9 @@
+hello,
+welcome to git training
+
+installation is completed
+
+first committed by srinivas
+
+
+second commmit made by naresh
